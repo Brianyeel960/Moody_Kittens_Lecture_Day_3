@@ -8,37 +8,3 @@ html {
   width: 200px;
 }
 
-.neutral {
-  background-color: #f1c588;
-  height: 200px;
-  width: 200px;
-  padding: 16px;
-}
-
-.angry {
-  background-color: #f74545;
-  height: 200px;
-  width: 200px;
-  padding: 16px;
-}
-
-.happy {
-  background-color: #02caca;
-  height: 200px;
-  width: 200px;
-  padding: 16px;
-}
-
-.exuberant {
-  background-color: #aa22aa;
-  height: 200px;
-  width: 200px;
-  padding: 16px;
-}
-
-.gone {
-  filter: drop-shadow(2px 4px 6px #838181) contrast(0);
-  height: 200px;
-  width: 200px;
-  padding: 16px;
-}
