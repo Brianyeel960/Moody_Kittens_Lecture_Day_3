@@ -12,7 +12,7 @@ showMood()
 
 
 function drawCatMood() {
-  document.getElementById("cat-mood").innerText = catMood
+  document.getElementById("cat-mood").innerText = catMood.toFixed();
 }
 
 function petCat() {
