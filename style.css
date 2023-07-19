@@ -13,3 +13,29 @@ body {
   width: 200px;
 }
 
+.neutral {
+background-color: aqua;
+height: 200px;
+width: 200px;
+padding: 6px;
+ border-radius: 16px;
+}
+
+.happy {
+  background-color:blue;
+height: 200px;
+width: 200px;
+padding: 6px;
+ border-radius: 16px;
+  
+}
+.mad {
+  background-color:rgb(107, 38, 38)
+  height: 200px;
+  width: 200px;
+  padding: 6px;
+   border-radius: 16px;
+
+}
+.gone
+filter:drop- shadow (2px, 4px)
